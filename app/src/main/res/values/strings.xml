@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Assignment2</string>
+    <string name="latitude">Latitude</string>
+    <string name="search">Search</string>
+    <string name="address">Address</string>
+    <string name="longitude">Longitude</string>
+    <string name="enter_an_address">Enter an address</string>
+    <string name="empty_search_error">Enter something to search it</string>
 </resources>
